@@ -1,0 +1,16 @@
+.sky {
+	background-color: blue;
+	height: 400px;
+}
+.sea {
+	background-color: green;
+	/*border: 1px red solid;*/
+	height: 400px;
+}
+.iceberg {
+	background: url(../img/Iceberg-Antarctica.jpg) no-repeat center;
+	height: 300px;
+	/*weight: 800px;*/
+	/*border: 1px red solid;*/
+	margin: -550px;
+}
